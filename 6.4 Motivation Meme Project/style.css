@@ -1,0 +1,18 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+img {
+    border: 5px solid white;
+}
+
+.com {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
